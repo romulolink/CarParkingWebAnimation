@@ -3,7 +3,8 @@
 /*/
 
 # Inverse ignore some stuff
-!/Models/
+!/Modelos/
+!/ArtSource/
 !/Assets/
 !/NodeServerSource/
 !/ProjectSettings/
