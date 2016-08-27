@@ -1,0 +1,25 @@
+# Ignore everything
+/*
+/*/
+
+# Inverse ignore some stuff
+!/Models/
+!/Assets/
+!/NodeServerSource/
+!/ProjectSettings/
+!.gitignore
+!/AndroidApp
+# OS Stuff
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+!README.md
+ehthumbs.db
+Thumbs.db
+$RECYCLE.BIN/
+Desktop.ini
+/Assets/Vendor/Cartoon1_Demo/
+/Assets/StreamingAssets/
+/Assets/Vendor/PopcornFX/
+/Assets/Vendor/QuickCutsceneCreator/
